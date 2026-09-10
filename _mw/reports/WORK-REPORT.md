@@ -2,8 +2,8 @@
 
 **Purpose:** compact source-linked report on the completed information-analytical Work contour.  
 **Audience:** human commissioner and future cold-recovery actor.  
-**Status at establishment:** substantive Knowledge Work complete; Scientific owner admitted; final development-contour closure audit remains the last formal control.  
-**This report is a derived view.** Authoritative analytical knowledge is `_mw/knowledge/RUSSIAN-ECONOMY-Q2-2026.md`; Work State, evidence, verification and closure retain their own owners.
+**Final status:** `WORK-0001` is **closed / quiescent**; `CLOSURE-0001 = PASS` was accepted on 2026-09-11.  
+**This report is a derived view.** Authoritative analytical knowledge is `_mw/knowledge/RUSSIAN-ECONOMY-Q2-2026.md`; Work State, evidence, verification, admission and closure retain their own owners.
 
 ## 1. What information need was recovered
 
@@ -118,7 +118,7 @@ The durable Decision owner records the principal choices. The most consequential
 
 Current decisions: `_mw/state/DECISIONS.md`.
 
-## 7. How the result was verified
+## 7. How the result was verified and admitted
 
 `VR-0001` verified the exact Scientific candidate against current KPA/KAC and the frozen Research universe.
 
@@ -135,9 +135,9 @@ The assurance combined:
 
 Verdict: **PASS for bounded professional informational reliance**. The same agent/session performed assembly and verification, so independent-auditor assurance remains explicitly outside the claim.
 
-`KWA-0001` then audited the Knowledge Work Program as a whole and also issued **PASS**, establishing that the candidate was eligible for admission.
+`KWA-0001` audited the Knowledge Work Program as a whole and also issued **PASS**, establishing that the candidate was eligible for admission.
 
-`SCI-ADMISSION-0001` admitted the verified payload as Current Scientific Knowledge and the current standalone knowledge Product without changing its scientific content.
+`SCI-ADMISSION-0001` then admitted the exact verified payload as Current Scientific Knowledge and the current standalone knowledge Product without changing its scientific content.
 
 ## 8. Remaining limitations and material uncertainty
 
@@ -156,16 +156,26 @@ These limitations are explicit in the final Product and owned in `_mw/state/QUES
 
 ## 9. Can the information-analytical contour be considered complete?
 
-**Substantively: yes.** The requested knowledge has been researched, reconciled, assembled, verified and admitted; the two human inboxes are durable; the complete Research/evidence path is preserved; uncertainty and future reopen triggers have owners.
+**Yes.** `CLOSURE-0001` audited the complete development contour and issued **PASS**. The Commission-authorized closure transition then moved `WORK-0001` and `MW-0001` to **closed / quiescent** state.
 
-At the time this report revision is established, only the final development-contour closure audit and its Work-State/front-door transition remain. They change governance state rather than the analytical payload. Final formal status is owned by `_mw/closure/CLOSURE.md` once established and by the current `_mw/work/WORK-0001.md` thereafter.
+The terminal contour now contains:
 
-No new Research or artifact is justified solely to continue activity.
+- cold-recoverable Workspace and truthful Work State;
+- both raw human inboxes and their developed semantics;
+- seven Research Results, including the additional bank-IFRS lane;
+- S01–S53 source registry and exhaustive corpus accounting;
+- cross-topic reconciliation;
+- one verified and admitted Current Scientific Knowledge / standalone Product;
+- Knowledge and final contour PASS audits;
+- durable Decisions and nonblocking Questions/UNKNOWNs;
+- this execution report.
+
+No active Work remains. No new Research or artifact is justified solely to continue activity. Later information can affect the historical Q2 Product only through a valid explicit reopen/new Commission and selective rebinding of the affected scope.
 
 ## Owner routes
 
 - cold entry: `_mw/WORKSPACE.md`
-- Work State: `_mw/work/WORK-0001.md`
+- terminal Work State: `_mw/work/WORK-0001.md`
 - raw human carriers: `_mw/inbox/INBOX-0001.md`, `_mw/inbox/INBOX-0002.md`
 - developed inputs: `_mw/input/INPUT-0001.md`, `_mw/input/INPUT-0002.md`
 - Research program/results: `_mw/research/AGENDA.md`, `_mw/research/results/`
@@ -178,4 +188,4 @@ No new Research or artifact is justified solely to continue activity.
 - Knowledge Program closure audit: `_mw/verification/KNOWLEDGE-CLOSURE-AUDIT.md`
 - Questions: `_mw/state/QUESTIONS.md`
 - Decisions: `_mw/state/DECISIONS.md`
-- final contour closure: `_mw/closure/CLOSURE.md` after audit establishment.
+- final contour closure: `_mw/closure/CLOSURE.md`.
