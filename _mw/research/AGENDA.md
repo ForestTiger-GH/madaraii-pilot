@@ -1,7 +1,7 @@
 # Research Agenda — WORK-0001
 
-Status: admitted Research program  
-Qualification Baseline: `INPUT-0001`; no prior project Research or Scientific Knowledge exists.  
+Status: admitted Research program, amended by `INPUT-0002`  
+Qualification Baseline: `INPUT-0001` plus supplemental evidence requirement `INPUT-0002`.  
 Primary consumer: professional Russian bank user evaluating corporate-borrower environment, corporate-credit implications, and AПК-specific transmission.  
 Primary time window: Q2 2026, H1 2026 context, 2025 causal/comparative base.
 
@@ -109,16 +109,36 @@ Research stops when additional search is unlikely to change the identified mecha
 
 **Stopping.** Enough to explain where AПК follows general high-rate/cooling mechanisms and where sector-specific mechanisms dominate or offset them.
 
+### TOPIC-07 — Major-bank IFRS lens on corporate-economic conditions
+
+**Activation.** Added by developed human input `INPUT-0002` after completion of TOPIC-01–06. It is a supplementary evidence lane and does not replace official macro/credit statistics.
+
+**Problem.** IFRS disclosures of large Russian banks can reveal borrower behavior and stress earlier or at a finer portfolio level than aggregate statistics, but each bank is institution-specific. The task is to establish what this evidence adds to the understanding of the Russian corporate economy without confusing bank portfolio effects with economy-wide facts.
+
+**Questions.** What do H1/Q2 2026 IFRS statements and related reporting of major Russian banks show about corporate loan growth/composition, sector concentration, stage migration and NPLs, cost of risk, restructurings/forbearance, collateral or provision dynamics, corporate deposits/liquidity and management-described borrower behavior? Which signals corroborate, qualify or contradict TOPIC-03 and TOPIC-05? Where available, what does agribusiness exposure add to TOPIC-06?
+
+**Scope.** A purposive sample of major Russian banks with sufficiently current H1/Q2 2026 IFRS disclosure and material corporate lending. Primary IFRS financial statements, notes and official IFRS-result presentations/releases are admissible. 2025 comparative data are included where needed for direction or baseline.
+
+**Non-goals.** Ranking banks; assessing bank investment attractiveness; forecasting bank capital/NIM/profit; mechanically aggregating institution-level values into national estimates.
+
+**Evidence strategy.** Prefer audited/reviewed IFRS statements and notes, then official results presentations/releases for management explanations. Capture bank-specific portfolio mix, accounting definitions and risk policy as applicability limits. Seek cross-bank convergence only where signals are semantically comparable and independent enough to support it.
+
+**Challenges.** Selection and portfolio-mix bias; consolidation perimeter; IFRS 9 model effects; FX/revaluation; acquisitions; one-off large borrowers; differing Stage 3/NPL definitions; management overlays; bank-specific de-risking or growth strategy.
+
+**Stopping.** Sufficient when the bank-reporting lane either materially changes/strengthens the corporate-finance or credit interpretation, or is shown to add little beyond aggregate sources, with transfer limits explicit.
+
 ## Candidate signals dispositioned outside standalone Topics
 
 - Forward outlook/monitoring: `SYNTHESIS_REQUIREMENT`, not a separate Research Topic; each Topic records persistence, expectations and reopen indicators, then cross-theme synthesis derives the monitoring set.
-- Exact institution-specific borrower mix and portfolio sensitivity: `OUT_OF_SCOPE / UNKNOWN`; no source basis supplied.
+- Exact institution-specific borrower mix and portfolio sensitivity of the commissioning bank: `OUT_OF_SCOPE / UNKNOWN`; no internal source basis supplied.
 - Generic corporate-finance theory: `EMBEDDED METHOD`; use only when needed to explain a specific evidenced transmission mechanism.
 - Full consumer/household economy: `BOUNDARY`; include only through corporate demand/pricing transmission.
-- Bank NIM, capital and profitability: `OUT_OF_SCOPE`; this contour concerns corporate-credit environment rather than the bank’s own financial model.
+- Bank NIM, capital and profitability: `OUT_OF_SCOPE` except where a change is explicitly used as evidence about borrower behavior or financial-condition transmission.
 
 ## Execution and fan-in
 
-`TOPIC-01` through `TOPIC-06` are commissioned under `WORK-0001` for separate MADARAII-08 Research Results. They may be researched independently, but final Scientific Knowledge requires cross-topic reconciliation because monetary, fiscal/external, corporate-finance, credit and AПК channels interact.
+`TOPIC-01` through `TOPIC-07` are commissioned under `WORK-0001` for separate MADARAII-08 Research Results. `TOPIC-07` was added after the first six Results and therefore reopens the Research fan-in boundary until its result is established and the corpus census/synthesis are refreshed.
+
+Final Scientific Knowledge requires cross-topic reconciliation because monetary, fiscal/external, corporate-finance, credit, AПК and bank-observed borrower signals interact.
 
 Research Results are history/evidence candidates only. They are not current Scientific Knowledge until the later assembly transition.
